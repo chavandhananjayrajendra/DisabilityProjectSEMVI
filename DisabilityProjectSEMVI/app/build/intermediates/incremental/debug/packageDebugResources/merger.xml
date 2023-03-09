@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3" xmlns:ns1="http://schemas.android.com/tools"><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res"/><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\rs\debug"/><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\resValues\debug"/><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\google-services\debug"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="main" generated-set="main$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res"><file name="ic_launcher_background" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\drawable\ic_launcher_background.xml" qualifiers="" type="drawable"/><file name="title_img" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\drawable\title_img.png" qualifiers="" type="drawable"/><file name="ic_launcher_foreground" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\drawable-v24\ic_launcher_foreground.xml" qualifiers="v24" type="drawable"/><file name="activity_main" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\layout\activity_main.xml" qualifiers="" type="layout"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-anydpi-v26\ic_launcher.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-anydpi-v26\ic_launcher_round.xml" qualifiers="anydpi-v26" type="mipmap"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-anydpi-v33\ic_launcher.xml" qualifiers="anydpi-v33" type="mipmap"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-hdpi\ic_launcher.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-hdpi\ic_launcher_round.webp" qualifiers="hdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-mdpi\ic_launcher.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-mdpi\ic_launcher_round.webp" qualifiers="mdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-xhdpi\ic_launcher.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-xhdpi\ic_launcher_round.webp" qualifiers="xhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-xxhdpi\ic_launcher.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-xxhdpi\ic_launcher_round.webp" qualifiers="xxhdpi-v4" type="mipmap"/><file name="ic_launcher" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-xxxhdpi\ic_launcher.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file name="ic_launcher_round" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\mipmap-xxxhdpi\ic_launcher_round.webp" qualifiers="xxxhdpi-v4" type="mipmap"/><file path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\values\colors.xml" qualifiers=""><color name="colorPrimary">#008577</color><color name="colorPrimaryDark">#00574B</color><color name="colorAccent">#D81B60</color><color name="white">#FFFFFF</color><color name="green">#5FB709</color><color name="Red">#EB0D0D</color><color name="blueish">#17A2C0</color><color name="Black">#000000</color><color name="Blacklogo">#262626</color><color name="defaultColor">#000000</color><color name="gray">#7E000000</color><color name="darkgray">#B2000000</color><color name="lightgray">#1D000000</color><color name="darkgreen">#026909</color><color name="OffWhite">#36FFFFFF</color><color name="DarkBlue">#250285</color><color name="yourSelectedColor">#ff0000</color></file><file path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">FoodOn</string><string name="title_home">Home</string><string name="title_dashboard">Dashboard</string><string name="title_notifications">Notifications</string><string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array><string-array name="DishName">
+        <item>Thepla</item>
+        <item>Dal Rice</item>
+        <item>Dhokla</item>
+        <item>Sabji Roti</item>
+        <item>Kadhi Khichdi</item>
+        <item>Puri bhaji</item>
+        <item>Dal Dhokdi</item>
+        <item>Undhiyu</item>
+        <item>Aloo Paratha</item>
+        <item>Patra</item>
+        <item>Khandvi</item>
+        <item>Gulab Jamun</item>
+        <item>SevTomato bhakri</item>
+        <item>Shrikhand</item>
+        <item>Palak Paneer</item>
+        <item>Khulcha</item>
+        <item>Makki di roti</item>
+        <item>Gobi Partha</item>
+        <item>Biryani</item>
+        <item>Rajma</item>
+        <item>Bhindi Fry</item>
+        <item>Dum Biryani</item>
+        <item>Rumali roti</item>
+        <item>Dal Makhni</item>
+        <item>Samosa</item>
+        <item>Kachori</item>
+        <item>Menduwada</item>
+        <item>Pulav</item>
+        <item>Pav Bhaji</item>
+        <item>Misal Pav</item>
+        <item>Mix Vegetable</item>
+        <item>Muffins</item>
+        <item>DalFry JerraRice</item>
+        <item>Bengali sweet</item>
+        <item>Puranpoli</item>
+        <item>Egg Curry</item>
+        <item>Pomfret Fish</item>
+        <item>Egg Bhurji</item>
+        <item>Dum chicken</item>
+        <item>Hyderabadi Chicken Biryni</item>
+    </string-array><string-array name="State">
+        <item>Maharashtra</item>
+        <item>Gujarat</item>
+    </string-array></file><file path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\values\style.xml" qualifiers=""><style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/yourSelectedColor</item>
+        <item name="colorPrimaryDark">@color/Black</item>
+        <item name="colorAccent">@color/darkgray</item>
+
+    </style><style name="AppThemeNoActionbar" parent="AppTheme">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style></file><file path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\values\themes.xml" qualifiers=""><style name="Theme.DisabilityProjectSEMVI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="21">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\values-night\themes.xml" qualifiers="night-v8"><style name="Theme.DisabilityProjectSEMVI" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_200</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/black</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor" ns1:targetApi="21">?attr/colorPrimaryVariant</item>
+        
+    </style></file><file name="backup_rules" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\xml\backup_rules.xml" qualifiers="" type="xml"/><file name="data_extraction_rules" path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\main\res\xml\data_extraction_rules.xml" qualifiers="" type="xml"/></source><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\rs\debug"/><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\resValues\debug"/><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\google-services\debug"><file path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\build\generated\res\google-services\debug\values\values.xml" qualifiers=""><string name="default_web_client_id" translatable="false">699420387742-fm0sjs5g5cvi551g0d02lalps8roo96r.apps.googleusercontent.com</string><string name="gcm_defaultSenderId" translatable="false">699420387742</string><string name="google_api_key" translatable="false">AIzaSyARB9sJcxEeu79vfvRSz-fCj8inUvFzPcs</string><string name="google_app_id" translatable="false">1:699420387742:android:56662d3e07d715b111ce8f</string><string name="google_crash_reporting_api_key" translatable="false">AIzaSyARB9sJcxEeu79vfvRSz-fCj8inUvFzPcs</string><string name="google_storage_bucket" translatable="false">disabilityprojectsemvi.appspot.com</string><string name="project_id" translatable="false">disabilityprojectsemvi</string></file></source></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="debug" generated-set="debug$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"><source path="C:\Users\chava\AndroidStudioProjects\DisabilityProjectSEMVI\app\src\debug\res"/></dataSet><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated$Generated" generated="true" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><dataSet aapt-namespace="http://schemas.android.com/apk/res-auto" config="generated" generated-set="generated$Generated" ignore_pattern="!.svn:!.git:!.ds_store:!*.scc:.*:&lt;dir>_*:!CVS:!thumbs.db:!picasa.ini:!*~"/><mergedItems/></merger>

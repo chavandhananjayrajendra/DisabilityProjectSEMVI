@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">699420387742-fm0sjs5g5cvi551g0d02lalps8roo96r.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">699420387742</string>
+    <string name="google_api_key" translatable="false">AIzaSyARB9sJcxEeu79vfvRSz-fCj8inUvFzPcs</string>
+    <string name="google_app_id" translatable="false">1:699420387742:android:56662d3e07d715b111ce8f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARB9sJcxEeu79vfvRSz-fCj8inUvFzPcs</string>
+    <string name="google_storage_bucket" translatable="false">disabilityprojectsemvi.appspot.com</string>
+    <string name="project_id" translatable="false">disabilityprojectsemvi</string>
+</resources>
